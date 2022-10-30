@@ -1,0 +1,17 @@
+table, th, td{
+    border: 1px;
+    color: black;
+    border-style: solid;
+}
+
+h1{
+    color: brown;
+}
+
+#shutterstock {
+    width: 50%;
+    height: 50%;
+    border: 2px;
+    border-style: solid;
+    color: black;
+}
